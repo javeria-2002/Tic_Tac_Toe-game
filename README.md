@@ -1,2 +1,2 @@
-# Tic_Tac_Toe-game
-Welcome to the Tic Tac Toe Game repository! This project brings the classic game of Tic Tac Toe to life with HTML, CSS, and JavaScript. 
+Welcome to the Tic Tac Toe Game repository! This project brings the classic game of Tic Tac Toe to life with HTML, CSS, and JavaScript. Whether you're playing against a friend or challenging the computer, this interactive game offers hours of fun and strategic gameplay. With a clean and intuitive user interface, players can easily click or tap to mark their moves and compete for victory. Built with web technologies, this project serves as a great learning resource for aspiring developers interested in game development and front-end web technologies. Get ready to test your skills and enjoy the timeless thrill of Tic Tac Toe!
+
